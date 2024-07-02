@@ -12,7 +12,7 @@ function landing() {
             <div key={index} className="masker">
               <div className="w-fit overflow-hidden flex">
                 {index===1 && (<motion.div 
-                initial={{width:0}} animate={{width:"9vw"}} transition={{ease :[0.16, 1, 0.3, 1] ,duration :1.5,delay:.1}}
+                initial={{width:0}} animate={{width:"9vw"}} transition={{ease :[0.16, 1, 0.3, 1] ,duration :1.5,delay:.3}}
                 // mr-1vw
                 // mt-[1.2vw]
                 className="relative top-[1vw] w-[9vw] rounded-3xl h-[5.7vw] ">
