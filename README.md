@@ -18,7 +18,7 @@ Recreated the captivating **ochi.design** website with a sleek dark theme using 
 React, Vite, Tailwind CSS, Locomotive Scroll, GSAP, JavaScript, HTML5, CSS3
 
 ### 📝 How to Use
-1. **Clone the repository:** `git clone https://github.com/your-username/ochi-design-dark-theme`
+1. **Clone the repository:** `[https://github.com/mooosakhan/ochi.design_clone.git]`
 2. **Install dependencies:** `npm install`
 3. **Start the development server:** `npm run dev`
 4. **Open** `localhost:3000` **in your browser.**
