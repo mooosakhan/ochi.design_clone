@@ -6,7 +6,7 @@
 Recreated the captivating **ochi.design** website with a sleek dark theme using React, Vite, Tailwind CSS, Locomotive Scroll for smooth scrolling effects, and GSAP for engaging animations. This project mirrors the original's aesthetic while offering a modern dark mode experience, enhanced with seamless transitions and eye-catching animations.
 
 ### ✨ Features
-- **Dark Mode:** Enhanced usability in low-light environments with a stylish dark color palette.
+- **Dark Mode:** Enhanced usability in low-light environments with a stylish dark color palette. 
 - **Responsive Design:** Ensured seamless performance across various devices and screen sizes.
 - **Tailwind CSS:** Streamlined styling with Tailwind CSS utility-first framework for rapid development.
 - **Locomotive Scroll:** Implemented smooth scrolling with Locomotive Scroll for a polished user experience.
