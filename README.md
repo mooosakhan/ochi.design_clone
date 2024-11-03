@@ -28,4 +28,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ### 🙏 Acknowledgments
 - Original design inspiration from [ochi.design](https://ochi.design)
-- Built with ❤️ by Moosa
+- Built with ❤️ by Moosa 
