@@ -3,7 +3,7 @@
 [Project Preview](https://mooosakhan.github.io/ochi.design_clone/)
 
 ### 🌟 Description
-Recreated the captivating **ochi.design** website with a sleek dark theme using React, Vite, Tailwind CSS, Locomotive Scroll for smooth scrolling effects, and GSAP for engaging animations. This project mirrors the original's aesthetic while offering a modern dark mode experience, enhanced with seamless transitions and eye-catching animations.
+Recreated the captivating **ochi.design** website with a sleek dark theme using React, Vite, Tailwind CSS, Locomotive Scroll for smooth scrolling effects, and GSAP for engaging animations. This project mirrors the original's aesthetic while  offering a modern dark mode experience, enhanced with seamless transitions and eye-catching animations.
 
 ### ✨ Features
 - **Dark Mode:** Enhanced usability in low-light environments with a stylish dark color palette. 
